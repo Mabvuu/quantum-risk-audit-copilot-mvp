@@ -156,7 +156,7 @@ export default function HomePage() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-      <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 py-10">
+      <div className="mx-auto flex  flex-col px-6 py-10">
         <header className="mb-10 border-b border-white/10 pb-6">
           <p className="mb-3 text-xs uppercase tracking-[0.3em] text-zinc-500">
             Quantum Risk Audit MVP
